@@ -63,7 +63,22 @@ body { width: 100%;}
 ******************************************************/
 
 
-/*****************************************************
-*
+/******************************************************/
 
- */
+
+
+body {
+	font-family: Courier, monospace;
+}
+
+
+header {
+	background-color: #2b2b2b;
+	color: lime;
+}
+
+header h1 {
+	display: inline-block;
+	font-size: 3rem;
+	margin-right: 2rem;
+}
